@@ -46,8 +46,7 @@ elif pc == 2:
     elif n == 0:
         print("JOGADOR VENCE")
     else:
-        print("Jogada Inválida!")
+        print("Jogada Inválida!") 
 else:
     print("Jogada Inválida!")
-    
     
