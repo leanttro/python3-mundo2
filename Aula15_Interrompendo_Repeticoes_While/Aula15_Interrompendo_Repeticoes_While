@@ -1,0 +1,8 @@
+num = soma = cont = 0
+while True:
+    num = int(input("Digite um número: "))
+    if num == 999:
+        break
+    soma = soma + num
+    cont = cont + 1
+print(f"{cont} foi a quantidade de números, e a soma vale {soma}")
