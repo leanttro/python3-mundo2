@@ -1,3 +1,8 @@
+for m in range(0, 10, 3):
+    print(m)
+for c in range (0,5):
+    print(c)
+
 print("="*30)
 print("{:^30}".format("BANCO LELIS"))
 print("="*30)
