@@ -2,7 +2,7 @@
 
 Repositório com os exercícios resolvidos do curso Python 3 – Mundo 2 do Curso em Vídeo, feito pelo professor Gustavo Guanabara.
 
-Neste módulo, os principais temas abordados são estruturas condicionais e de repetição.
+Neste módulo, os principais temas aprendidos foram estruturas condicionais e de repetição.
 
 ## Conteúdo aprendido
 
