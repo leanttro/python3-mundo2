@@ -17,22 +17,22 @@ Neste módulo, os principais temas abordados são estruturas condicionais e de r
 ## Aulas
 
 **Aula 12 – Condições aninhadas**  
-Boas práticas e estrutura de decisões complexas
+- Boas práticas e estrutura de decisões complexas
 
 **Aula 13 – Estrutura de repetição for**  
-Uso do `for`  
-Função `range()`  
-Laços com contadores
+- Uso do `for`  
+- Função `range()`  
+- Laços com contadores
 
 **Aula 14 – Estrutura de repetição while**  
-Diferenças entre `for` e `while`  
-Estrutura de repetição com condição
+- Diferenças entre `for` e `while`  
+- Estrutura de repetição com condição
 
 **Aula 15 – Interrompendo repetições while**  
-Uso do `break` para interromper laços  
-Criação de menus interativos  
-Simulação de fluxos reais com `while True`  
-Validação de entrada de dados com `break` e `continue`
+- Uso do `break` para interromper laços  
+- Criação de menus interativos  
+- Simulação de fluxos reais com `while True`  
+- Validação de entrada de dados com `break` e `continue`
 
 ## Organização
 
